@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Contact.module.css";
-import Map from "./../../Assets/images/map.png";
+import Map from "./../../Assets/images/map.jpg";
 import { IoLocationOutline } from "react-icons/io5";
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { SiCodeforces } from "react-icons/si";
@@ -9,7 +9,7 @@ import { SiLeetcode } from "react-icons/si";
 import { BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
 import { BsGithub } from "react-icons/bs";
 import { AiTwotonePhone } from "react-icons/ai";
-import Resume from "./../../Assets/images/Resume.png";
+import Resume from "./../../Assets/images/Resume.jpg";
 
 const Contact = () => {
   const nameRef = React.useRef(null);
@@ -23,7 +23,7 @@ const Contact = () => {
     if (name && message) {
       setError("");
       window.open(
-        `mailto:jindalujjwal0720@gmail.com?subject=Message from ${name}&body=${message}`
+        `mailto:pratapavinesh2003@gmail.com?subject=Message from ${name}&body=${message}`
       );
     } else if (!name) {
       setError("Without a name, I won't know who to reply to :(");
@@ -34,12 +34,12 @@ const Contact = () => {
 
   const handleResumeDownload = () => {
     window.open(
-      "https://docs.google.com/document/d/1bbRtI3ESLcfV8I-tzsiRg9ftvPvcm3w0PEs2r8qqlH0/edit?usp=sharing"
+      "https://docs.google.com/document/d/1oozEmtpQwf-Q-KGRCAuuWeFK3TMjNqQig0-9jKw9ZVg/edit?usp=sharing"
     );
   };
 
   const handleMapEvents = () => {
-    window.open("https://goo.gl/maps/UACW57bWWUvjwxvFA");
+    window.open("https://goo.gl/maps/czJrxa2GAejtWYVC8");
   };
 
   return (
@@ -53,8 +53,7 @@ const Contact = () => {
           <div className={styles.address}>
             <IoLocationOutline className={styles.icon} />
             <span>
-              7/180 - Jindal Nivas(Opp Aggarwal Dharamshala), Saharanpur, Uttar
-              Pradesh, India.
+               Bahraich Uttar Pradesh India-271903.
             </span>
           </div>
           <div className={styles.callToActions}>
@@ -106,47 +105,45 @@ const Contact = () => {
           </h2>
           <div className={styles.social}>
             <a
-              href="https://www.linkedin.com/in/jindalujjwal0720/"
+              href="https://www.linkedin.com/in/avinesh-singh-070b58200/"
               target="_blank"
               rel="noreferrer"
             >
               <BiLogoLinkedin className={styles.icon} />
             </a>
             <a
-              href="
-                    https://www.github.com/jindalujjwal0720/"
+              href="https://github.com/pratapavinesh"
               target="_blank"
               rel="noreferrer"
             >
               <BsGithub className={styles.icon} />
             </a>
             <a
-              href="mailto:
-                            jindalujjwal0720@gmail.com"
+              href="mailto:pratapavinesh2003@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
               <BiLogoGmail className={styles.icon} />
             </a>
-            <a href="tel:+91 7906347915" target="_blank" rel="noreferrer">
+            <a href="tel:+91 6307978382" target="_blank" rel="noreferrer">
               <AiTwotonePhone className={styles.icon} />
             </a>
             <a
-              href="https://www.codeforces.com/profile/leafpetal"
+              href="https://codeforces.com/profile/avinesh_2003"
               target="_blank"
               rel="noreferrer"
             >
               <SiCodeforces className={styles.icon} />
             </a>
             <a
-              href="https://www.codechef.com/users/leafpetal"
+              href="https://www.codechef.com/users/pratap_2003"
               target="_blank"
               rel="noreferrer"
             >
               <SiCodechef className={styles.icon} />
             </a>
             <a
-              href="https://www.leetcode.com/leafpetal"
+              href="https://leetcode.com/avinesh_2003/"
               target="_blank"
               rel="noreferrer"
             >
