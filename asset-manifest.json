@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.49d3350d.css",
-    "main.js": "/portfolio/static/js/main.484f2ec0.js",
+    "main.css": "/portfolio/static/css/main.0a3d58a3.css",
+    "main.js": "/portfolio/static/js/main.76c6b9d1.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/project31m.png": "/portfolio/static/media/project31m.c26d12b123a7c33b94c9.png",
     "static/media/project33m.png": "/portfolio/static/media/project33m.c8d24cb2d2ea2a86f55d.png",
@@ -18,29 +18,28 @@
     "static/media/project21.png": "/portfolio/static/media/project21.8abd73f1b72271b0f7a4.png",
     "static/media/project23.png": "/portfolio/static/media/project23.c354c4c285419f245787.png",
     "static/media/react-white.png": "/portfolio/static/media/react-white.f3d7873d2b6f442de395.png",
-    "static/media/graphql-white.png": "/portfolio/static/media/graphql-white.5a14d88bbe5f9a971c52.png",
     "static/media/react.png": "/portfolio/static/media/react.582cbc784710a3dbe704.png",
     "static/media/Resume.jpg": "/portfolio/static/media/Resume.06c5676130bbbf27dd28.jpg",
     "static/media/avinesh.jpeg": "/portfolio/static/media/avinesh.711ca92fc0491232bb1a.jpeg",
     "static/media/map.jpg": "/portfolio/static/media/map.33edb8cfc76487d32df3.jpg",
+    "static/media/python-white.png": "/portfolio/static/media/python-white.041c23891e3dff5640cb.png",
     "static/media/css-white.png": "/portfolio/static/media/css-white.09a051244a9c2bf78773.png",
     "static/media/js.png": "/portfolio/static/media/js.062825dbceed44567e91.png",
     "static/media/mongo-white.png": "/portfolio/static/media/mongo-white.eb62cb897b90728248d2.png",
     "static/media/node-white.png": "/portfolio/static/media/node-white.ea5d8fb0291cebaa0aeb.png",
     "static/media/flutter.png": "/portfolio/static/media/flutter.847335c62331f928207c.png",
     "static/media/git-white.png": "/portfolio/static/media/git-white.987334e9f782cc505f25.png",
-    "static/media/postman-white.png": "/portfolio/static/media/postman-white.1cf3ce320e7ec3cc7757.png",
     "static/media/js-white.png": "/portfolio/static/media/js-white.58694ffc3344f41bb7ef.png",
-    "static/media/flutter-white.png": "/portfolio/static/media/flutter-white.6390400dad8602eedad3.png",
     "static/media/html-white.png": "/portfolio/static/media/html-white.ae08655cb3e7a8c18076.png",
+    "static/media/c-white.svg": "/portfolio/static/media/c-white.7ba223e886ac945548e87547b4527ed4.svg",
     "index.html": "/portfolio/index.html",
     "static/media/logo.svg": "/portfolio/static/media/logo.e6f26a435d8d2fbce17e8b04b17a4c8a.svg",
-    "main.49d3350d.css.map": "/portfolio/static/css/main.49d3350d.css.map",
-    "main.484f2ec0.js.map": "/portfolio/static/js/main.484f2ec0.js.map",
+    "main.0a3d58a3.css.map": "/portfolio/static/css/main.0a3d58a3.css.map",
+    "main.76c6b9d1.js.map": "/portfolio/static/js/main.76c6b9d1.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49d3350d.css",
-    "static/js/main.484f2ec0.js"
+    "static/css/main.0a3d58a3.css",
+    "static/js/main.76c6b9d1.js"
   ]
 }
