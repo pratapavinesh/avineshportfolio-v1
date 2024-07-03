@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={styles.footer}>
       <div className={styles.copyright}>
         <p>
-          © 2023 Avinesh Pratap Singh, Indian Institute of Technology (ISM), Dhanbad.
+          © 2023 Made By Ujjwal Jindal Revised by Avinesh Pratap Singh, IIT Dhanbad.
         </p>
       </div>
     </div>
