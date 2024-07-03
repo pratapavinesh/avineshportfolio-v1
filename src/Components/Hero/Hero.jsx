@@ -50,11 +50,6 @@ const Hero = () => {
               </a>
             </li>
             <li>
-              <a href="#projects" onClick={handleNavAnchor}>
-                Projects
-              </a>
-            </li>
-            <li>
               <a href="#contact" onClick={handleNavAnchor}>
                 Contact
               </a>
