@@ -1,20 +1,28 @@
-# Portfolio
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/pratapavinesh/avineshportfolio-v2/main/src/images/logo.png" width="100" />
+</div>
+<h1 align="center">
+  avineshportfolio - v1
+</h1>
+<p align="center">
+  The 1st iteration of <a href="https://pratapavinesh.github.io/avineshportfolio-v1/" target="_blank">avineshportfolio - v1</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+</p>
 
-Welcome to my portfolio repository! This repository contains information about me, my projects, skills, and contact details.
+![demo](https://raw.githubusercontent.com/pratapavinesh/avineshportfolio-v1/main/src/Assets/images/demo.png)
 
-## About Me
-
-I am passionate about technology and enjoy working on diverse projects that challenge me to learn and grow. With a background in [Your Field], I bring creativity, problem-solving skills, and a strong work ethic to every project.
+## 🛠 Installation & Set Up
 
 
-## Contact
+1. Install dependencies
 
-Feel free to reach out to me via pratapavinesh2003@gmail.com or connect with me on https://www.linkedin.com/in/avinesh-singh-070b58200/
+   ```sh
+   npm install
+   ```
 
-## Portfolio Link
 
-Visit my live portfolio at https://pratapavinesh.github.io/portfolio/.
+4. Start the development server
 
----
+   ```sh
+   npm start
+   ```
 
-Thank you for visiting my portfolio repository! If you have any questions or would like to collaborate, feel free to get in touch.
