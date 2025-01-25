@@ -9,7 +9,6 @@ import { SiLeetcode } from "react-icons/si";
 import { BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
 import { BsGithub } from "react-icons/bs";
 import { AiTwotonePhone } from "react-icons/ai";
-import Resume from "./../../Assets/images/Resume.jpg";
 
 const Contact = () => {
   const nameRef = React.useRef(null);
@@ -34,7 +33,7 @@ const Contact = () => {
 
   const handleResumeDownload = () => {
     window.open(
-      "https://docs.google.com/document/d/1oozEmtpQwf-Q-KGRCAuuWeFK3TMjNqQig0-9jKw9ZVg/edit?usp=sharing"
+      "https://github.com/pratapavinesh/pratapavinesh/raw/main/avineshResume.pdf"
     );
   };
 
@@ -63,7 +62,7 @@ const Contact = () => {
             >
               Download Resume
               <div className={styles.resumePreviewPopup}>
-                <img src={Resume} alt="Resume" />
+                <img src= 'https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/avineshResume.png' alt="Resume" />
               </div>
             </button>
           </div>
