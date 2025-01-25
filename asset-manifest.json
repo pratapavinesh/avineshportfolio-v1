@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/avineshportfolio-v1/static/css/main.e053e529.css",
-    "main.js": "/avineshportfolio-v1/static/js/main.6f08b0f3.js",
+    "main.js": "/avineshportfolio-v1/static/js/main.80d94b98.js",
     "static/js/787.1ed0c42c.chunk.js": "/avineshportfolio-v1/static/js/787.1ed0c42c.chunk.js",
     "static/media/project12.png": "/avineshportfolio-v1/static/media/project12.ecc0e8ba556b0ae1c360.png",
     "static/media/project14.png": "/avineshportfolio-v1/static/media/project14.cc7ad20b6ddcd669b6bb.png",
@@ -9,7 +9,6 @@
     "static/media/project13.png": "/avineshportfolio-v1/static/media/project13.93957aecb8719b02a574.png",
     "static/media/react-white.png": "/avineshportfolio-v1/static/media/react-white.f3d7873d2b6f442de395.png",
     "static/media/react.png": "/avineshportfolio-v1/static/media/react.582cbc784710a3dbe704.png",
-    "static/media/Resume.jpg": "/avineshportfolio-v1/static/media/Resume.06c5676130bbbf27dd28.jpg",
     "static/media/avinesh.jpeg": "/avineshportfolio-v1/static/media/avinesh.711ca92fc0491232bb1a.jpeg",
     "static/media/map.jpg": "/avineshportfolio-v1/static/media/map.33edb8cfc76487d32df3.jpg",
     "static/media/python-white.png": "/avineshportfolio-v1/static/media/python-white.041c23891e3dff5640cb.png",
@@ -25,11 +24,11 @@
     "index.html": "/avineshportfolio-v1/index.html",
     "static/media/logo.svg": "/avineshportfolio-v1/static/media/logo.e6f26a435d8d2fbce17e8b04b17a4c8a.svg",
     "main.e053e529.css.map": "/avineshportfolio-v1/static/css/main.e053e529.css.map",
-    "main.6f08b0f3.js.map": "/avineshportfolio-v1/static/js/main.6f08b0f3.js.map",
+    "main.80d94b98.js.map": "/avineshportfolio-v1/static/js/main.80d94b98.js.map",
     "787.1ed0c42c.chunk.js.map": "/avineshportfolio-v1/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e053e529.css",
-    "static/js/main.6f08b0f3.js"
+    "static/js/main.80d94b98.js"
   ]
 }
