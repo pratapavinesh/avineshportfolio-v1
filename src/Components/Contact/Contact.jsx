@@ -33,7 +33,7 @@ const Contact = () => {
 
   const handleResumeDownload = () => {
     window.open(
-      "https://github.com/pratapavinesh/pratapavinesh/raw/main/avineshResume.pdf"
+      "https://avineshportfoliov2.netlify.app/avineshResume.pdf"
     );
   };
 
@@ -62,7 +62,7 @@ const Contact = () => {
             >
               Download Resume
               <div className={styles.resumePreviewPopup}>
-                <img src= 'https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/avineshResume.png' alt="Resume" />
+                <img src= 'https://avineshportfoliov2.netlify.app/avineshResume.png' alt="Resume" />
               </div>
             </button>
           </div>
